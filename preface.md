@@ -36,7 +36,7 @@ Where do the two traditions genuinely resonate, and where does Christianity redi
 
 These are not attempts to collapse Hermeticism into Christianity. They are invitations to conversation.
 
-## A Tablet That May Never Have Been a Tablet
+### A Tablet That May Never Have Been a Tablet
 
 The *Emerald Tablet*, also known as the *Tabula Smaragdina* or Smaragdine Table, is surprisingly short. Depending upon how its lines are divided and translated, it contains only about a dozen or so sayings. Yet those sayings have generated centuries of interpretation.
 
@@ -48,7 +48,7 @@ Several Arabic versions circulated within works on natural philosophy, alchemy, 
 
 This history is important because it separates the historical *Emerald Tablet* from modern works published under similar names. The short medieval text examined in this book is not the twentieth-century *Emerald Tablets of Thoth the Atlantean*, which presents thirteen tablets and claims an origin in ancient Atlantis and Egypt. The historical Tablet is much smaller, older, and more restrained in its claims.
 
-## Who Was Hermes Trismegistus?
+### Who Was Hermes Trismegistus?
 
 The text is attributed to Hermes Trismegistus, or “Hermes the Thrice-Great.” Hermes was not one identifiable historical author. He was a legendary sage formed through the blending of the Greek Hermes and the Egyptian Thoth, both figures associated with writing, wisdom, mediation, calculation, and hidden knowledge.
 
@@ -58,7 +58,7 @@ The *Emerald Tablet* belongs more naturally to this technical and cosmological s
 
 Yet the distinction between physical and spiritual transformation was not always as sharp for premodern readers as it is for us. The material world was thought to embody spiritual and cosmic patterns. To work upon matter could therefore be understood as a way of discovering the hidden order of reality.
 
-## From the Arabic World to Latin Europe
+### From the Arabic World to Latin Europe
 
 The Tablet’s journey into Europe occurred within the much larger transmission of Arabic philosophy, medicine, astronomy, mathematics, and alchemy into Latin. Beginning in the twelfth century, translators rendered Arabic works into Latin, giving European readers access to texts that preserved, developed, and transformed Greek, Persian, Indian, and Islamic learning.
 
@@ -68,7 +68,7 @@ This complicated transmission is especially visible in difficult terms such as *
 
 There is consequently no single English version that can claim to reproduce every nuance of an uncontested original. Each translation is already an interpretation. Throughout this commentary, I have chosen readable English renderings while acknowledging significant alternatives whenever they change the possible meaning of a saying.
 
-## The Alchemical Imagination
+### The Alchemical Imagination
 
 To modern readers, alchemy is often reduced to the unsuccessful attempt to turn lead into gold. That goal was certainly present, but historical alchemy was larger and stranger than this summary suggests. It combined practical experimentation with metals, minerals, medicines, dyes, furnaces, and distillation alongside philosophical speculation about nature, transformation, and perfection.
 
@@ -80,7 +80,7 @@ This helps explain the Tablet’s most famous saying. “What is above is like w
 
 The movements of the heavens corresponded with processes upon earth. The human being reflected the greater cosmos, while the alchemical vessel reproduced the transformations of nature. To understand one level might therefore reveal something about another.
 
-## A Text of Remarkable Influence
+### A Text of Remarkable Influence
 
 Once established in Latin Europe, the *Emerald Tablet* became a foundational text within alchemical interpretation. Medieval commentators treated it as a compressed account of the philosopher’s stone and the transformation of matter. Renaissance readers increasingly placed it within wider Neoplatonic, cosmological, esoteric, and sometimes explicitly Christian frameworks.
 
@@ -94,7 +94,7 @@ The Tablet’s influence therefore extends far beyond anyone’s ability to prov
 
 This book attempts to honor that history without treating every later interpretation as equally ancient. The original context, medieval alchemical reception, modern psychological readings, and Christian contemplative applications must be distinguished even when they illuminate one another.
 
-## Reading with Openness and Discernment
+### Reading with Openness and Discernment
 
 A Christian approach to another spiritual tradition can fail in two opposite ways. The first is defensive rejection. Anything outside familiar Christian language is treated as dangerous or worthless before it has been heard.
 
@@ -116,7 +116,7 @@ The life of Christ gives this commentary its measure of power. Divine power does
 
 Any wisdom that passes through a Christian lens must eventually face the cross.
 
-## The Shape of This Commentary
+### The Shape of This Commentary
 
 Each chapter begins with one saying from the Tablet in a clear modern translation. Because the wording varies across textual traditions, the chapter first explains significant translation choices and acknowledges places where certainty is impossible.
 
@@ -136,7 +136,7 @@ The goal is not merely to understand transformation.
 
 It is to become available to it.
 
-## A Small Text and a Large Mystery
+### A Small Text and a Large Mystery
 
 The *Emerald Tablet* can be read in only a few minutes. Its influence, however, cannot be measured by its length. It has crossed languages, religions, philosophies, and centuries, gathering new meanings as it traveled.
 
