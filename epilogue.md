@@ -42,11 +42,7 @@ For the Christian, this humility is not rooted in relativism. It is rooted in co
 
 If Christ is truly the Logos through whom all things were made, then we need not fear the honest pursuit of wisdom. Whatever is genuinely true will ultimately find its fulfillment in the God who is Truth itself. We may discover partial insights, beautiful symbols, and surprising resonances in places we never expected, not because every tradition says the same thing, but because all people live within the same creation and seek the same ultimate Reality, however differently they understand it.
 
-That confidence frees us from both defensiveness and triumphalism.
-
-We need not reject every unfamiliar idea to protect our faith.
-
-Nor do we need to absorb every idea uncritically in the name of openness.
+That confidence frees us from both defensiveness and triumphalism. We need not reject every unfamiliar idea to protect our faith. Nor do we need to absorb every idea uncritically in the name of openness.
 
 Instead, we can practice discernment shaped by charity. We can receive what is good, question what seems incomplete, and remain grateful for the opportunity to learn.
 
@@ -60,17 +56,9 @@ The process is often slow. We misunderstand one another. We carry centuries of s
 
 And yet, conversation continues.
 
-Perhaps that is one of the quiet works of grace in our age.
+Perhaps that is one of the quiet works of grace in our age. Not the disappearance of difference, but the growth of patient understanding. Not the collapse of conviction, but the deepening of humility. Not the triumph of one voice over all others, but the willingness to listen long enough that genuine wisdom has room to emerge.
 
-Not the disappearance of difference, but the growth of patient understanding.
-
-Not the collapse of conviction, but the deepening of humility.
-
-Not the triumph of one voice over all others, but the willingness to listen long enough that genuine wisdom has room to emerge.
-
-The *Emerald Tablet* closes by declaring that the work of the Sun is complete.
-
-This book closes by recognizing that our work is not.
+The *Emerald Tablet* closes by declaring that the work of the Sun is complete. This book closes by recognizing that our work is not.
 
 There are always more conversations to have, more symbols to ponder, more neighbors to understand, and more opportunities to discover how truth, goodness, and beauty shine through unexpected places.
 
